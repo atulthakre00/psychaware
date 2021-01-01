@@ -1,0 +1,1 @@
+web: gunicorn hacknagpur.wsgi --log-file -
